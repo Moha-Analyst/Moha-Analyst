@@ -58,18 +58,10 @@
 - **Tech Stack**: Python, SQL, Power BI
 - **Key Features**: Employment statistics, salary analysis, skills gap identification
 
-## 📊 **GitHub Stats**
+## 🎓 **Education**
+- **Bachelor of Science in Computer Science** | Majmaah University (2023)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moha-Analyst&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moha-Analyst&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-## 🏆 **Achievements & Certifications**
-- 🎓 **Bachelor of Science in Computer Science** | Majmaah University (2023)
+## 🏆 **Certifications & Training**
 - 🗃️ **SQL Database Implementation Using Python** | Tuwaiq Academy (2025)
 - ⚡ **Power BI Job Simulation** | PwC Switzerland via Forage (2024)
 - 📊 **Preparing Data for Analysis with Microsoft Excel** | Microsoft (2024)
@@ -86,18 +78,12 @@
 - 🔒 Managed IT infrastructure security and system currency
 - 📋 Documented technical processes and solutions
 
-## 📈 **Current Focus**
-- 🔍 Advanced analytics with Python and R
-- 🤖 Machine Learning for business intelligence
-- ☁️ Cloud-based data solutions (Azure, AWS)
-- 📱 Mobile-responsive dashboard development
-
 ## 📫 **Let's Connect!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-amer-alotaibi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Muhammed18sa@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Moha-Analyst)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+966596110245)
+
 
 ---
 
