@@ -1,94 +1,222 @@
-# <p align="center">🙋‍♂️ Hi there, I'm Mohammed Alotaibi</p>
-### <p align="center">💻 Computer Science Graduate | 📊 Data Analyst | 🇸🇦 Saudi Arabia</p>
+# 🙋‍♂️ Hi there, I'm Mohammed Alotaibi
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Business+Intelligence+Developer;Python+%26+Power+BI+Expert&center=true&width=380&height=45">
-</p>
+### 💻 Computer Science Graduate | 📊 Excel & Power BI Expert | 🇸🇦 Saudi Arabia
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%F0%9F%93%8A;Power+BI+Developer+%E2%9A%A1" alt="Typing SVG" />
+</div>
+
+## 🌟 About Me
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+
+Detail-oriented **Data Analyst** with a strong foundation in Computer Science and Information Technology. Proficient in data visualization, analysis, and reporting using tools like Power BI and Microsoft Excel. 
+
+🔍 **Passionate about:** Using data to drive strategic decisions and improve business outcomes
+
+🎯 **Goal:** Seeking to contribute analytical and technical expertise to a forward-thinking organization
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Moha-Analyst&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+
 
 ---
 
-## 🔍 **What I Do**  
-- 📊 Transform business data into clear, interactive dashboards  
-- 📈 Analyze trends and uncover insights using Power BI & Python  
-- 🧹 Clean, structure, and prepare messy data for smart decisions  
-- 💡 Drive data-driven decision making across organizations
-- 📈 Statistical analysis and data modeling for business insights
-- 🔍 Data mining and pattern recognition to uncover hidden trends
+## 🛠️ Tech Stack & Skills
 
-## 🛠️ **Tools & Technologies**  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=powerbi,python,mysql,github,vscode,figma" alt="Tech Stack" />
+</div>
 
-### Data Visualization & BI
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+### 📊 Data Analysis & Visualization
+<div align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/DAX-FF6F00?style=for-the-badge&logo=dax&logoColor=white" alt="DAX" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+</div>
 
-### Programming & Data Analysis
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### 💻 Programming & Database
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</div>
 
-### Python Libraries
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+### 🏢 Microsoft Office Suite
+<div align="left">
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office" />
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint" />
+  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Word" />
+</div>
 
-### Data Tools
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+### 🔧 Development Tools
+<div align="left">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</div>
 
-## 🚀 **Featured Projects**  
+### 🧠 Soft Skills
 
-### 📊 [Customer Retention Dashboard](https://github.com/yourusername/customer-retention-dashboard)
-- Interactive Power BI dashboard analyzing telecom customer churn
-- **Tech Stack**: Power BI, DAX, SQL
-- **Key Features**: Predictive analytics, customer segmentation, retention strategies
 
-### 🏢 [HR Diversity Analytics](https://github.com/yourusername/hr-diversity-analytics)
-- Comprehensive analysis of workforce diversity metrics
-- **Tech Stack**: Python, Pandas, Matplotlib, Power BI
-- **Key Features**: Diversity insights, trend analysis, interactive visualizations
+💡 Analytical Thinking 🔍 Problem-Solving ⏰ Time Management 💬 Communication 🤝 Teamwork 📋 Detail-oriented
 
-### 🏠 [Real Estate Operations Dashboard](https://github.com/yourusername/real-estate-dashboard)
-- Real-time operational metrics for real estate management
-- **Tech Stack**: Power BI, SQL, Power Query
-- **Key Features**: KPI tracking, market analysis, performance metrics
 
-### 🎓 [Graduate Employment Report](https://github.com/yourusername/graduate-employment-report)
-- Data-driven insights into graduate employment trends
-- **Tech Stack**: Python, SQL, Power BI
-- **Key Features**: Employment statistics, salary analysis, skills gap identification
+---
 
-## 🎓 **Education**
-- **Bachelor of Science in Computer Science** | Majmaah University (2023)
+## 🎓 Education
 
-## 🏆 **Certifications & Training**
-- 🗃️ **SQL Database Implementation Using Python** | Tuwaiq Academy (2025)
-- ⚡ **Power BI Job Simulation** | PwC Switzerland via Forage (2024)
-- 📊 **Preparing Data for Analysis with Microsoft Excel** | Microsoft (2024)
-- 🤖 **HCIA - AI Tech Bootcamp** | Saudi Digital Academy & Huawei (2023)
-- 💻 **The Bits and Bytes of Computer Networking** | Google (2023)
-- 🛠️ **Technical Support Fundamentals** | Google (2022)
-- 🐧 **NDG Linux Essentials** | Cisco Networking Academy (2021)
+<div align="center">
+  <img src="https://img.shields.io/badge/Bachelor%20of%20Science-Computer%20Science-blue?style=for-the-badge&logo=graduationcap&logoColor=white" alt="Degree" />
+</div>
 
-## 💼 **Professional Experience**
-### 🏥 **IT Support Specialist - Internship** | Zulfi General Hospital
-- 🖥️ Provided timely technical support to end-users, enhancing productivity
-- 🤝 Collaborated with IT team to troubleshoot complex technical issues
-- ⚙️ Assisted in hardware, software, and system installations
-- 🔒 Managed IT infrastructure security and system currency
-- 📋 Documented technical processes and solutions
+🏛️ **Majmaah University** | 🗓️ **2023**
 
-## 📫 **Let's Connect!**
+<div align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="Education GIF"/>
+</div>
 
+---
+
+## 💼 Experience
+
+<div align="center">
+  <img src="https://img.shields.io/badge/IT%20Support%20Specialist-Internship-success?style=for-the-badge&logo=hospital&logoColor=white" alt="Position" />
+</div>
+
+### 🏥 **Zulfi General Hospital**
+
+<img align="right" alt="Work GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" />
+
+🔧 **Key Achievements:**
+- ✅ Provided timely technical support to end-users, enhancing productivity and minimizing downtime
+- 🤝 Collaborated with the IT team to troubleshoot and resolve complex technical issues, improving system reliability
+- 🖥️ Assisted in installing and configuring hardware, software, systems, printers, and scanners
+- 🏗️ Supported deployment and configuration of IT infrastructure components
+- 🔄 Managed routine tasks such as system updates and software installations to ensure security and system currency
+- 📚 Documented technical processes and solutions, enriching the team's knowledge base
+
+---
+
+## 🏆 Certifications
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Certification GIF"/>
+</div>
+
+### 📊 **Data Analysis & Business Intelligence**
+<div align="center">
+  
+![McKinsey](https://img.shields.io/badge/McKinsey-Forward%20Program-blue?style=for-the-badge&logo=mckinsey&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-Job%20Simulation-yellow?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+**McKinsey.org Forward Program** | *McKinsey.org* | 2025  
+**Power BI Job Simulation** | *PwC Switzerland* | 2024  
+**Preparing Data for Analysis with Microsoft Excel** | *Microsoft* | 2024
+
+</div>
+
+### 💻 **Programming & Database**
+<div align="center">
+  
+![Python](https://img.shields.io/badge/SQL%20Database-Python-green?style=for-the-badge&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/HCIA-AI%20Tech%20Bootcamp-red?style=for-the-badge&logo=huawei&logoColor=white)
+
+**SQL Database Implementation Using Python** | *Tuwaiq Academy* | 2025  
+**HCIA - AI Tech Bootcamp** | *Saudi Digital Academy by Huawei* | 2023
+
+</div>
+
+### 🔧 **IT Support & Networking**
+<div align="center">
+  
+![Google](https://img.shields.io/badge/Google-Computer%20Networking-blue?style=for-the-badge&logo=google&logoColor=white) ![Google](https://img.shields.io/badge/Google-Technical%20Support-orange?style=for-the-badge&logo=google&logoColor=white)
+
+**The Bits and Bytes of Computer Networking** | *Google* | 2023  
+**Technical Support Fundamentals** | *Google* | 2022
+
+</div>
+
+---
+
+## 🚀 Projects
+
+
+<div align="center">
+  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Analytics](https://img.shields.io/badge/Data-Analytics-blue?style=for-the-badge&logo=analytics&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**🏢 Business Registry Performance Analysis KSA 2018** | *MASAR Competition*  
+**🏠 Real Estate Operations Dashboard** | *5th Power BI Challenge*  
+**🎬 Movies Analysis Dashboard** | *6th Power BI Challenge*  
+**📈 HR Insights Dashboard** | *GDG Data Analysis Bootcamp*  
+**💰 Point of Sale Transactions Dashboard** | *Financial Data Jam Project*  
+**🎓 Graduates Analysis Dashboard 2024** | *Saudi Open Data Platform*  
+**📞 Call Center & Customer Analytics Suite** | *PwC Switzerland Power BI Simulation*  
+**🏛️ Museum Distribution & Classification Analysis** | *Museums Hackathon Project*
+
+</div>
+
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Moha-Analyst&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moha-Analyst&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moha-Analyst&theme=tokyonight&hide_border=true" width="60%" />
+</div>
+
+---
+
+## 🌐 Languages
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Arabic-Native-green?style=for-the-badge&logo=language&logoColor=white" alt="Arabic" />
+  <img src="https://img.shields.io/badge/English-Proficient-blue?style=for-the-badge&logo=language&logoColor=white" alt="English" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="Languages GIF"/>
+</div>
+
+---
+
+## 📫 Let's Connect & Collaborate!
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohammed18ea@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-amer-alotaibi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Muhammed18sa@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Moha-Analyst)
 
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Location-Saudi%20Arabia-red?style=for-the-badge&logo=location&logoColor=white" alt="Location" />
+</div>
+
+
+
+I'm always interested in:
+- 📊 **Data Analysis Projects**
+- 💡 **Power BI & Excel Insights**
+- 🔍 **Latest Data Science Trends**
+- 🤝 **Professional Networking**
+
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Moha-Analyst&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Always+happy+to+help!;Let's+connect+and+collaborate!" alt="Typing SVG" />
+</div>
 
-<p align="center">💡 <strong>"Data is the new oil, but analytics is the refinery"</strong> 💡</p>
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=&fontSize=16" width="100%"/>
+</div>
