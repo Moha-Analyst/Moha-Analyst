@@ -1,8 +1,13 @@
+<div align="center">
+
 # 🙋‍♂️ Hi there, I'm Mohammed Alotaibi
 
-### 💻 Computer Science Graduate | 📊 Excel & Power BI Expert | 🇸🇦 Saudi Arabia
+### 💻 Computer Science Graduate | 📊 Data Analyst | Excel & Power BI Expert | 🇸🇦 Saudi Arabia
+
+</div>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%F0%9F%93%8A;Power+BI+Developer+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%F0%9F%93%8A;Power+BI+Developer+%E2%9A%A1;Excel+Specialist+%F0%9F%93%8A" alt="Typing SVG" />
 </div>
 
 ## 🌟 About Me
@@ -19,14 +24,14 @@ Detail-oriented **Data Analyst** with a strong foundation in Computer Science an
   <img src="https://komarev.com/ghpvc/?username=Moha-Analyst&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
-
+<br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=powerbi,python,mysql,github,vscode,figma" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode,figma" alt="Tech Stack" />
 </div>
 
 ### 📊 Data Analysis & Visualization
@@ -34,6 +39,7 @@ Detail-oriented **Data Analyst** with a strong foundation in Computer Science an
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/DAX-FF6F00?style=for-the-badge&logo=dax&logoColor=white" alt="DAX" />
+  <img src="https://img.shields.io/badge/Power%20Query-2C5AA0?style=for-the-badge&logo=powerquery&logoColor=white" alt="Power Query" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </div>
@@ -83,12 +89,46 @@ Detail-oriented **Data Analyst** with a strong foundation in Computer Science an
 ## 💼 Experience
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Data%20Analysis%20&%20Presentation-Freelancer-blue?style=for-the-badge&logo=freelancer&logoColor=white" alt="Position" />
+</div>
+
+### 📊 **Freelancer - Data Analysis & Presentation Services**
+**Self-employed** | *Mar 2023 - Present* | 📍 Remote
+
+<img align="right" alt="Work GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" />
+
+🔧 **Key Achievements:**
+- 📈 Designed and developed professional PowerPoint and Canva presentations to communicate complex data-driven insights, enhancing audience engagement
+- 📊 Performed data analysis using Microsoft Excel, including advanced functions, pivot tables, and formula creation to derive actionable insights
+- 📋 Created interactive Power BI dashboards and reports to visualize key performance metrics, enabling clients to make informed strategic decisions
+- 🔍 Delivered Excel-based solutions, including data entry, cleaning, chart development, and statistical analysis tailored to client specifications
+- 🎯 Managed multiple projects with focus on quality and precision, ensuring alignment with client objectives and timely delivery
+- 💬 Built and maintained strong client relationships through effective communication, attention to detail, and customized data solutions
+
+
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Data%20Analyst-Trainee-green?style=for-the-badge&logo=analytics&logoColor=white" alt="Position" />
+</div>
+
+### 📈 **Data Analyst Trainee**
+**Aja Space Information Technology Community Initiative** | *Dec 2024 - May 2025* | 📍 Remote
+
+🔧 **Key Achievements:**
+- 📊 Trainee at Aja Space Information Technology Community Initiative - Data Analysis Track
+- 📈 Developed skills in data visualization, statistical analysis, and reporting
+
+
+---
+
+<div align="center">
   <img src="https://img.shields.io/badge/IT%20Support%20Specialist-Internship-success?style=for-the-badge&logo=hospital&logoColor=white" alt="Position" />
 </div>
 
-### 🏥 **Zulfi General Hospital**
-
-<img align="right" alt="Work GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" />
+### 🏥 **IT Support Specialist - Internship**
+**Zulfi General Hospital**
 
 🔧 **Key Achievements:**
 - ✅ Provided timely technical support to end-users, enhancing productivity and minimizing downtime
@@ -106,16 +146,25 @@ Detail-oriented **Data Analyst** with a strong foundation in Computer Science an
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Certification GIF"/>
 </div>
 
+### 🎯 **Business & Leadership Development**
+<div align="center">
+  
+![McKinsey](https://img.shields.io/badge/McKinsey-Forward%20Program-blue?style=for-the-badge&logo=mckinsey&logoColor=white)
+
+**McKinsey.org Forward Program** | *McKinsey.org* | 2025
+
+</div>
+
 ### 📊 **Data Analysis & Business Intelligence**
 <div align="center">
   
-![McKinsey](https://img.shields.io/badge/McKinsey-Forward%20Program-blue?style=for-the-badge&logo=mckinsey&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-Job%20Simulation-yellow?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Job%20Simulation-yellow?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-**McKinsey.org Forward Program** | *McKinsey.org* | 2025  
 **Power BI Job Simulation** | *PwC Switzerland* | 2024  
 **Preparing Data for Analysis with Microsoft Excel** | *Microsoft* | 2024
 
 </div>
+
 
 ### 💻 **Programming & Database**
 <div align="center">
@@ -211,8 +260,8 @@ I'm always interested in:
 
 ---
 
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Always+happy+to+help!;Let's+connect+and+collaborate!" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Always+happy+to+help!;Let's+connect+and+collaborate!" alt="Typing SVG" />
 </div>
 
 ---
